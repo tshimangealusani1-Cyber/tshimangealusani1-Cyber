@@ -7,7 +7,7 @@
 
 I’m an IT Security and Network Engineering student learning by building, testing, documenting, and improving practical labs across cybersecurity, SOC operations, networking, Linux, Python, and cloud technologies.
 
-[Portfolio](https://tshimangealusani1-Cyber.github.io/portfolio/) · [Repositories](https://github.com/tshimangealusani1-Cyber?tab=repositories) · [LinkedIn](https://www.linkedin.com/in/alusani-tshimange-81b506381)
+[Portfolio](https://https://tshimangealusani1-cyber.github.io/Portfolio/) · [Repositories](https://github.com/tshimangealusani1-Cyber?tab=repositories) · [LinkedIn](https://www.linkedin.com/in/alusani-tshimange-81b506381)
 
 </div>
 
